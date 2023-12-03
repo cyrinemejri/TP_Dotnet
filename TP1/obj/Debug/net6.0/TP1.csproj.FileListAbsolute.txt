@@ -1,0 +1,60 @@
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.AssemblyInfoInputs.cache
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.AssemblyInfo.cs
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.RazorAssemblyInfo.cache
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.RazorAssemblyInfo.cs
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\appsettings.json
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\TP1.staticwebassets.runtime.json
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\TP1.exe
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\TP1.deps.json
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\TP1.runtimeconfig.json
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\TP1.dll
+C:\Users\chadha\source\repos\TP1\bin\Debug\net6.0\TP1.pdb
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets\msbuild.TP1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets\msbuild.build.TP1.props
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP1.props
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP1.props
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\scopedcss\bundle\TP1.styles.css
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\scopedcss\projectbundle\TP1.bundle.scp.css
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.dll
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\refint\TP1.dll
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.pdb
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\TP1.genruntimeconfig.cache
+C:\Users\chadha\source\repos\TP1\obj\Debug\net6.0\ref\TP1.dll
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\TP1.staticwebassets.runtime.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\TP1.exe
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\TP1.deps.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\TP1.runtimeconfig.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\TP1.dll
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\bin\Debug\net6.0\TP1.pdb
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.AssemblyInfoInputs.cache
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.AssemblyInfo.cs
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.RazorAssemblyInfo.cache
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.RazorAssemblyInfo.cs
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets\msbuild.TP1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets\msbuild.build.TP1.props
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP1.props
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP1.props
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\scopedcss\bundle\TP1.styles.css
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\scopedcss\projectbundle\TP1.bundle.scp.css
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.dll
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\refint\TP1.dll
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.pdb
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\TP1.genruntimeconfig.cache
+C:\Users\Ayadi Nassim\Downloads\DotNetTPs\TP1\TP1\obj\Debug\net6.0\ref\TP1.dll
